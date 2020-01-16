@@ -2,45 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb18eade-cfbf-4ed4-85e2-d4a70a966ad8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/CollectionSimpleUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapSimpleUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/SetSimpleUse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/SetTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/TreeMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/list/ListStudy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/list/SortUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/User2Dao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/User2DaoCgligProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/UserDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/UserDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/UserDaoProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/UserInvocationHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/proxy/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/javaStudy.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser$CustomClass.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapSimpleUse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Key.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetSimpleUse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/TreeMap.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/ListStudy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/SortUtils.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2Dao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2DaoCgligProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoImpl.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoProxy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserInvocationHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/LRUTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/QueueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/common/util/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/tools/util/ArrayUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser$CustomClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser$CustomClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/CollectionSimpleUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapSimpleUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapSimpleUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Key.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Key.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest$Student.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/MapTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetSimpleUse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetSimpleUse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/SetTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/TreeMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/collection/TreeMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/ListStudy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/ListStudy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/SortUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/list/SortUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2Dao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2Dao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2DaoCgligProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/User2DaoCgligProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoProxy.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserDaoProxy.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserInvocationHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserInvocationHandler.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/javaless/proxy/UserService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/common/tools/util/ArrayUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/common/tools/util/ArrayUtils.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -52,14 +38,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="363">
-              <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+            <state relative-caret-position="143">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#484#492#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/QueueTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="61">
+              <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+              <folding>
+                <element signature="e#978#986#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/LRUTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="131">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#422#423#0" expanded="true" />
+                <element signature="e#452#453#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTool.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="101">
+              <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,6 +124,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/TreeMap.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/LRUTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/QueueTest.java" />
       </list>
     </option>
   </component>
@@ -111,7 +137,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-3" />
     <option name="y" value="426" />
     <option name="width" value="1443" />
@@ -125,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -187,15 +215,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="D:/ruanjian/sdk" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579011543166" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1579186304229" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -221,35 +247,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SetTest">
-    <configuration name="CollectionSimpleUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.CollectionSimpleUser" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.javaless.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ListStudy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.list.ListStudy" />
-      <module name="javaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.javaless.list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MapSimpleUse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.MapSimpleUse" />
+  <component name="RunManager" selected="Application.QueueTest">
+    <configuration name="LRUTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.LRUTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -263,6 +263,32 @@
     </configuration>
     <configuration name="MapTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.MapTest" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.javaless.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapTool" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.MapTool" />
+      <module name="javaStudy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.javaless.collection.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QueueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.javaless.collection.QueueTest" />
       <module name="javaStudy" />
       <extension name="coverage">
         <pattern>
@@ -289,11 +315,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.QueueTest" />
+        <item itemvalue="Application.MapTool" />
+        <item itemvalue="Application.LRUTest" />
         <item itemvalue="Application.SetTest" />
         <item itemvalue="Application.MapTest" />
-        <item itemvalue="Application.ListStudy" />
-        <item itemvalue="Application.MapSimpleUse" />
-        <item itemvalue="Application.CollectionSimpleUser" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +340,8 @@
       <workItem from="1577966703903" duration="8046000" />
       <workItem from="1578398295360" duration="7744000" />
       <workItem from="1579002722729" duration="594000" />
-      <workItem from="1579004492403" duration="3450000" />
+      <workItem from="1579004492403" duration="3650000" />
+      <workItem from="1579175785185" duration="10180000" />
     </task>
     <servers />
   </component>
@@ -333,7 +360,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39839000" />
+    <option name="totallyTimeSpent" value="50219000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -345,9 +372,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-3" y="426" width="1443" height="434" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19412607" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19884309" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -357,7 +385,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.39838493" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.52491695" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,7 +393,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3287858" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33378196" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.33333334" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32974428" />
@@ -574,11 +602,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/SetTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="30" column="27" lean-forward="true" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
+        <state relative-caret-position="143">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#484#492#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/LRUTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#452#453#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/MapTool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="31" column="32" lean-forward="true" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/javaless/collection/QueueTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="61">
+          <caret line="73" column="42" lean-forward="true" selection-start-line="73" selection-start-column="42" selection-end-line="73" selection-end-column="42" />
+          <folding>
+            <element signature="e#978#986#0" expanded="true" />
           </folding>
         </state>
       </provider>
